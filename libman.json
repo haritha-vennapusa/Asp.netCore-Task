@@ -1,0 +1,18 @@
+{
+  "version": "1.0",
+  "defaultProvider": "cdnjs",
+  "libraries": [
+    {
+      "library": "angular.js@1.8.2",
+      "destination": "wwwroot/lib/angular.js/"
+    },
+    {
+      "library": "angular-route@1.8.2",
+      "destination": "wwwroot/lib/angular-route/"
+    },
+    {
+      "library": "pdfmake@0.1.70",
+      "destination": "wwwroot/lib/pdfmake/"
+    }
+  ]
+}
